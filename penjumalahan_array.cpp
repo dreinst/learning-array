@@ -15,7 +15,7 @@ int main() {
         sum += angka[i];
     }
 
-    cout << "\nJumlah semua elemen array:2 " << sum << endl;
+    cout << "\nJumlah semua elemen array: " << sum << endl;
 
     return 0;
 }
