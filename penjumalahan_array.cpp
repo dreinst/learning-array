@@ -10,12 +10,12 @@ int main() {
         cin >> angka[i];
     }
 
-    int sum = 0;
+    int jumlah = 0;
     for (int i = 0; i < 10; i++) {
-        sum += angka[i];
+        jumlah += angka[i];
     }
 
-    cout << "\nJumlah semua elemen array: " << sum << endl;
+    cout << "\nJumlah semua elemen array: " << jumlag << endl;
 
     return 0;
 }
